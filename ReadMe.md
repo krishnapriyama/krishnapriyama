@@ -1,3 +1,6 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm KrishnaPriya. MERN Stack Developer" src="./assets/gh-readme-header.png" /></a></p>
+
+
 # 💫 About Me:
 I work at Brototype as an intern.<br><br>I adore using software to solve every problem.<br><br>I am a competitive programmer mainly at MERN<br><br>I earned a Bachelor of Computer Applications (BCA).<br><br>Constantly gaining fresh knowledge
 
