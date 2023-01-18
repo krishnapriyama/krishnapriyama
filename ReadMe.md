@@ -19,8 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnapriyama&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="krishnapriya" /></p>
 
 
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=krishnapriyama&icon=0&color=0)](https://visitcount.itsvg.in)
