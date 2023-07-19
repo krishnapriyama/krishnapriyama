@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapriyama&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapriyama" /> </p>
 
-- 🌱 eager to learn new skills and technologies
+- 🌱 Eager to learn new skills and technologies
 
 - 📫 How to reach me **krishnapriyama185@gmail.com**
 
