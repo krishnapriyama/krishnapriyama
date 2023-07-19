@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapriyama&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapriyama" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 eager to learn new skills and technologies
 
 - 📫 How to reach me **krishnapriyama185@gmail.com**
+
+- Connect with me : **https://www.linkedin.com/in/krishnapriya-ma-243490248**
 
 
 <h3 align="left">Connect with me:</h3>
